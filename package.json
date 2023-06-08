@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "I am developing the student panel of the online education platform web application",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js",
