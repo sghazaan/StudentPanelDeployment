@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ec250606.css","mappings":"AAAA,cACI,WACF,CACA,YACE,WACF,CACA,YACE,cACF","sources":["css/courses.css"],"sourcesContent":[".custom-input {\r\n    width: 550px; /* Adjust the width value as needed */\r\n  }\r\n  .btn-search{\r\n    width: 100px;\r\n  }\r\n  .brand-name{\r\n    font-size: 36px;\r\n  }\r\n"],"names":[],"sourceRoot":""}
