@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const cors = require('cors');
 const app = express();
-import path from 'path';
+const path = require( 'path');
 
 dotenv.config();
 const StudentRoutes = require('./routes/studentRoutes');
