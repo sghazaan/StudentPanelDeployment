@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "I am developing the student panel of the online education platform web application",
   "main": "app.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
-    "start": "node server.js",
+    "start": "node server.cjs",
     "server": "nodemon server.js",
     "client": "npm start --prefix ../frontend/ourcoursera",
     "dev": "concurrently \"npm run start\" \"npm run client\"",
